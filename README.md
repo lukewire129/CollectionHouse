@@ -8,14 +8,17 @@
 ## Repositories
 #### League of Legends
 These Repository descriptions.  
+
 [![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 [![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/)
 #### XamlDesign.Wpf
 These Repository descriptions.  
+
 [![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 [![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/)
 #### ThemeSwitch
 These Repository descriptions.  
+
 [![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 [![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/)
 
@@ -25,14 +28,17 @@ These Repository descriptions.
 
 #### Jamesnet.Wpf
 These NuGet descriptions.  
+
 [![latest version](https://img.shields.io/nuget/v/Jamesnet.Wpf)](https://www.nuget.org/packages/Jamesnet.Wpf)
 [![downloads](https://img.shields.io/nuget/dt/Jamesnet.Wpf)](https://www.nuget.org/packages/Jamesnet.Wpf)
 #### XamlDesign.Wpf 
 These NuGet descriptions.  
+
 [![latest version](https://img.shields.io/nuget/v/ThemeSwitch)](https://www.nuget.org/packages/XamlDesign.Wpf)
 [![downloads](https://img.shields.io/nuget/dt/ThemeSwitch)](https://www.nuget.org/packages/XamlDesign.Wpf)
 #### ThemeSwitch
 These NuGet descriptions.  
+
 [![latest version](https://img.shields.io/nuget/v/ThemeSwitch)](https://www.nuget.org/packages/ThemeSwitch)
 [![downloads](https://img.shields.io/nuget/dt/ThemeSwitch)](https://www.nuget.org/packages/ThemeSwitch)
 
