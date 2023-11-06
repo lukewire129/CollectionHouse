@@ -9,7 +9,7 @@
 - [X] 05/13/2023 - Maui MVU Pattern - MauiReactor Series (3/5) ([Link](http://blog.naver.com/lukewire129/223100871476))
 - [X] 05/14/2023 - Maui MVU Pattern - MauiReactor Series (4/5) ([Link](https://blog.naver.com/lukewire129/223101485052))
 - [X] 05/15/2023 - Maui MVU Pattern - MauiReactor Series (5/5) ([Link](https://blog.naver.com/lukewire129/223102245317))
-- [ ] 
+
 <br/>
 
 ## Repositories
