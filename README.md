@@ -48,5 +48,24 @@ These NuGet descriptions.
 
 [![latest version](https://img.shields.io/nuget/v/ThemeSwitch)](https://www.nuget.org/packages/ThemeSwitch)
 [![downloads](https://img.shields.io/nuget/dt/ThemeSwitch)](https://www.nuget.org/packages/ThemeSwitch)
+#### DigitRoller
+These NuGet descriptions.
 
+[![latest version](https://img.shields.io/nuget/v/DigitRoller)](https://www.nuget.org/packages/DigitRoller)
+[![downloads](https://img.shields.io/nuget/dt/DigitRoller)](https://www.nuget.org/packages/DigitRoller)
+#### VerticalTabControl
+These NuGet descriptions.
+
+[![latest version](https://img.shields.io/nuget/v/VerticalTabControl)](https://www.nuget.org/packages/VerticalTabControl)
+[![downloads](https://img.shields.io/nuget/dt/VerticalTabControl)](https://www.nuget.org/packages/VerticalTabControl)
+#### AnimationHintText
+These NuGet descriptions.
+
+[![latest version](https://img.shields.io/nuget/v/AnimationHintText)](https://www.nuget.org/packages/AnimationHintText)
+[![downloads](https://img.shields.io/nuget/dt/AnimationHintText)](https://www.nuget.org/packages/AnimationHintText)
+#### DragAnimatedBox
+These NuGet descriptions.
+
+[![latest version](https://img.shields.io/nuget/v/DragAnimatedBox)](https://www.nuget.org/packages/DragAnimatedBox)
+[![downloads](https://img.shields.io/nuget/dt/DragAnimatedBox)](https://www.nuget.org/packages/DragAnimatedBox)
 <br/>
