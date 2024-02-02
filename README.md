@@ -32,40 +32,73 @@ These Repository descriptions.
 <br/>
 
 ## NuGet Packages
+#### 	AnimateBorder
+Border Move Animation
+
+[![latest version](https://img.shields.io/nuget/v/AnimateBorder)](https://www.nuget.org/packages/AnimateBorder)
+[![downloads](https://img.shields.io/nuget/dt/AnimateBorder)](https://www.nuget.org/packages/AnimateBorder)
+
+
+#### AnimationHintText
+These NuGet descriptions.
+
+[![latest version](https://img.shields.io/nuget/v/AnimationHintText)](https://www.nuget.org/packages/AnimationHintText)
+[![downloads](https://img.shields.io/nuget/dt/AnimationHintText)](https://www.nuget.org/packages/AnimationHintText)
+
+
+#### DigitRoller
+These NuGet descriptions.
+
+[![latest version](https://img.shields.io/nuget/v/DigitRoller)](https://www.nuget.org/packages/DigitRoller)
+[![downloads](https://img.shields.io/nuget/dt/DigitRoller)](https://www.nuget.org/packages/DigitRoller)
+
+
+#### DragAnimatedBox
+These NuGet descriptions.
+
+[![latest version](https://img.shields.io/nuget/v/DragAnimatedBox)](https://www.nuget.org/packages/DragAnimatedBox)
+[![downloads](https://img.shields.io/nuget/dt/DragAnimatedBox)](https://www.nuget.org/packages/DragAnimatedBox)
+
+
+#### Jamesnet.Design
+These NuGet descriptions.  
+
+[![latest version](https://img.shields.io/nuget/v/Jamesnet.Design)](https://www.nuget.org/packages/Jamesnet.Design)
+[![downloads](https://img.shields.io/nuget/dt/Jamesnet.Design)](https://www.nuget.org/packages/Jamesnet.Design)
+
 
 #### Jamesnet.Wpf
 These NuGet descriptions.  
 
 [![latest version](https://img.shields.io/nuget/v/Jamesnet.Wpf)](https://www.nuget.org/packages/Jamesnet.Wpf)
 [![downloads](https://img.shields.io/nuget/dt/Jamesnet.Wpf)](https://www.nuget.org/packages/Jamesnet.Wpf)
-#### XamlDesign.Wpf 
+
+
+#### LukeMauiMarkup
 These NuGet descriptions.  
 
-[![latest version](https://img.shields.io/nuget/v/ThemeSwitch)](https://www.nuget.org/packages/XamlDesign.Wpf)
-[![downloads](https://img.shields.io/nuget/dt/ThemeSwitch)](https://www.nuget.org/packages/XamlDesign.Wpf)
+[![latest version](https://img.shields.io/nuget/v/LukeMauiMarkup)](https://www.nuget.org/packages/LukeMauiMarkup)
+[![downloads](https://img.shields.io/nuget/dt/LukeMauiMarkup)](https://www.nuget.org/packages/LukeMauiMarkup)
+
+
 #### ThemeSwitch
 These NuGet descriptions.  
 
 [![latest version](https://img.shields.io/nuget/v/ThemeSwitch)](https://www.nuget.org/packages/ThemeSwitch)
 [![downloads](https://img.shields.io/nuget/dt/ThemeSwitch)](https://www.nuget.org/packages/ThemeSwitch)
-#### DigitRoller
-These NuGet descriptions.
 
-[![latest version](https://img.shields.io/nuget/v/DigitRoller)](https://www.nuget.org/packages/DigitRoller)
-[![downloads](https://img.shields.io/nuget/dt/DigitRoller)](https://www.nuget.org/packages/DigitRoller)
+
 #### VerticalTabControl
 These NuGet descriptions.
 
 [![latest version](https://img.shields.io/nuget/v/VerticalTabControl)](https://www.nuget.org/packages/VerticalTabControl)
 [![downloads](https://img.shields.io/nuget/dt/VerticalTabControl)](https://www.nuget.org/packages/VerticalTabControl)
-#### AnimationHintText
-These NuGet descriptions.
 
-[![latest version](https://img.shields.io/nuget/v/AnimationHintText)](https://www.nuget.org/packages/AnimationHintText)
-[![downloads](https://img.shields.io/nuget/dt/AnimationHintText)](https://www.nuget.org/packages/AnimationHintText)
-#### DragAnimatedBox
-These NuGet descriptions.
 
-[![latest version](https://img.shields.io/nuget/v/DragAnimatedBox)](https://www.nuget.org/packages/DragAnimatedBox)
-[![downloads](https://img.shields.io/nuget/dt/DragAnimatedBox)](https://www.nuget.org/packages/DragAnimatedBox)
+#### XamlDesign.Wpf 
+These NuGet descriptions.  
+
+[![latest version](https://img.shields.io/nuget/v/ThemeSwitch)](https://www.nuget.org/packages/XamlDesign.Wpf)
+[![downloads](https://img.shields.io/nuget/dt/ThemeSwitch)](https://www.nuget.org/packages/XamlDesign.Wpf)
+
 <br/>
